@@ -1,0 +1,9 @@
+slackuser: usrname
+slackpassword: mypassword
+teamuser: usrname
+teampassword: mypassword
+slackchannelURL: channelURL
+ListNumber: 0 
+projectURL: ProjectURL
+WebDriverPath: Chrome Driver Path
+RandomCBSubjects: Drupal,Wordpress,Android,Server,Youtube Intergration
